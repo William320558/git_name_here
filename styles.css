@@ -2,8 +2,24 @@
 background-color: navajowhite;
 }
 
+#dogs {
+    background-color: blue;
+    }
+
+#snakes {
+        background-color: olivedrab;
+        }
+
 
 #smallpic {
-width:450px;
-height:250px;
+ width:450px;
+ height:250px;
 }
+#smallpic2 {
+    width:450px;
+    height:250px;
+    }
+#smallpic3 {
+ width:450px;
+ height:250px;
+    }
